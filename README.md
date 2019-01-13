@@ -3,6 +3,10 @@
 Quickly set up a simple Telegram bot with this boilerplate.
 It comes complete with a command handler and an example command for you to play around with.
 
+This is built on top of the [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api).
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+
 
 ### How to… ?
 
