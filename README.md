@@ -19,3 +19,10 @@ return resolve({
 })
 ```
 Check out the /test command (`test.js`) for further explanation.
+
+
+### In action
+[@alldemaminalsbot](t.me/alldemaminalsbot) – get cute animal pictures! c:
+
+Did you use this boilerplate for you bot?
+Tell me and I'll be more than happy to add it to the list!
